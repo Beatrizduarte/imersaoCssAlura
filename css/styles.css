@@ -1,0 +1,29 @@
+body{
+    background: url('https://cdn.mos.cms.futurecdn.net/yJpqZpbcP3JQngvNzqqYuA.png') transparent;
+    background-size: 100vh;
+}
+
+header{
+    background-color: #fff;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li{
+    list-style: none;
+}
+
+h1.title-main{
+    color: #fff;
+    font-size:34px;
+    text-align: center;
+}
+
+h2.title-sub{
+    text-align: center;
+    color: #000;
+    font-size: 24px;
+}
